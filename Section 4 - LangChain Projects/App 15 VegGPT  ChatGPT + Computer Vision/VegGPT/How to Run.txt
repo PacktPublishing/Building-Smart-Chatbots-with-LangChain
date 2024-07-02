@@ -1,0 +1,7 @@
+Follow instruction to install on AS-One on Github
+https://github.com/augmentedstartups/AS-One
+
+pip install -r requirements.txt
+
+Run with this command
+python main.py 1.mp4
