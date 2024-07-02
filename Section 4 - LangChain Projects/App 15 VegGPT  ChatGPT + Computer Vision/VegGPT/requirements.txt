@@ -117,7 +117,7 @@ typing-extensions==3.10.0.2
 tzdata==2023.3
 tzlocal==4.3
 ultralytics==8.0.58
-urllib3==1.26.15
+urllib3==1.26.19
 validators==0.20.0
 watchdog==3.0.0
 win32-setctime==1.1.0
