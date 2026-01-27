@@ -62,7 +62,7 @@ numpy==1.23.3
 omegaconf==2.3.0
 onnxruntime-gpu==1.12.1
 openai==0.27.2
-opencv-python==4.7.0.72
+opencv-python==4.8.1.78
 packaging==23.0
 pandas==1.5.3
 pefile==2023.2.7
