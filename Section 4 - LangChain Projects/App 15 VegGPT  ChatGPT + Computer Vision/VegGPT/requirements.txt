@@ -112,7 +112,7 @@ torch==1.10.1+cu113
 torchaudio==0.10.1+cu113
 torchvision==0.11.2+cu113
 tornado==6.1
-tqdm==4.65.0
+tqdm==4.66.3
 typing-extensions==3.10.0.2
 tzdata==2023.3
 tzlocal==4.3
