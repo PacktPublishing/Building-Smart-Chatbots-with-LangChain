@@ -89,7 +89,7 @@ PyWavelets==1.4.1
 pywin32==306
 pywin32-ctypes==0.2.0
 PyYAML==6.0
-requests==2.28.2
+requests==2.32.2
 rich==12.6.0
 scikit-image==0.20.0
 scipy==1.9.1
